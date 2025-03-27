@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: fp_#3
+    database: elipratt
+    schema: SAMSSUBS_SOURCE_SAMS_SUBS
+    tables:
+      - name: CUSTOMER
+      - name: EMPLOYEE
+      - name: ORDER
+      - name: ORDERDETAILS
+      - name: PRODUCT
+      - name: SANDWICH
+      - name: STORE
+      
