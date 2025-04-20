@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: finalproject_orders
+    database: elipratt
+    schema: dw_samssubs
+    tables:
+      - name: CUSTOMER
+      - name: EMPLOYEE
+      - name: ORDER
+      - name: ORDERDETAILS
+      - name: PRODUCT
+      - name: SANDWICH
+      - name: STORE
+      - name: DATE

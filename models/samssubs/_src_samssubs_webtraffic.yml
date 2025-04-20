@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: finalproject_webtraffic
+    database: elipratt
+    schema: dw_samssubs
+    tables:
+      - name: EVENTTYPE
+      - name: TRAFFIC
+      - name: URL
+      - name: DATE
