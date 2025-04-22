@@ -3,7 +3,7 @@ version: 2
 sources:
   - name: finalproject_orders
     database: elipratt
-    schema: dw_samssubs
+    schema: samssubs_source_sams_subs
     tables:
       - name: CUSTOMER
       - name: EMPLOYEE

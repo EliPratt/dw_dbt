@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: sam_dim_customer
+    description: "Sams Subs Customer Dimension"

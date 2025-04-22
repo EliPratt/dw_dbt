@@ -5,7 +5,7 @@
 }}
 
 SELECT
-    customerid as customerkey,
+    customerid as customer_key,
     customerid,
     customerfname,
     customerlname,

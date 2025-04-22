@@ -3,7 +3,7 @@ version: 2
 sources:
   - name: finalproject_webtraffic
     database: elipratt
-    schema: dw_samssubs
+    schema: samssubs_source
     tables:
       - name: EVENTTYPE
       - name: TRAFFIC
